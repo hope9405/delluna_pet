@@ -1,0 +1,6 @@
+name: delluna_pet
+version: 0.1
+api-version: '1.16'
+main: main.DellunaPet
+author: LovePinkGuy, Simyeon
+description: 델루나 펫 플러그인
