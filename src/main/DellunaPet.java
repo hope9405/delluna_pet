@@ -1,7 +1,10 @@
 package main;
 
-public class DellunaPet {
-    public final static void main(String[] args){
-        System.out.println("Hello World!");
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class DellunaPet extends JavaPlugin {
+    @Override
+    public void onEnable() {
+        System.out.println("[DP] Plugin Test");
     }
 }
