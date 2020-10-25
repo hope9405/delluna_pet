@@ -32,12 +32,12 @@
 
 ## 제작자
 ### 개발자
-LovePinkGuy
+* LovePinkGuy
 
-Simyeon
+* Simyeon
 
 ### 구경꾼
-___moon
+* ___moon
 
 ### 디자이너
-Haru_711
+* Haru_711
